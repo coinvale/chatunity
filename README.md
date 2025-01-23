@@ -24,7 +24,7 @@
 
  ### ` 𝐀𝐍𝐓𝐄𝐏𝐑𝐈𝐌𝐀 𝐃𝐄𝐋 𝐌𝐄𝐍𝐔 👆` 
  --------- 
- ### `✦ 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐙𝐈𝐎𝐍𝐄 𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝🔮 ` 
+ ### `✦ 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐙𝐈𝐎𝐍𝐄 CHatunity-bot ` 
 
  `𝐔𝐒𝐀 𝐈𝐋 𝐁𝐎𝐓𝐓𝐎𝐍𝐄 𝐏𝐄𝐑 𝐄𝐒𝐄𝐆𝐔𝐈𝐑𝐄 𝐈𝐋 𝐅𝐎𝐑𝐊` 
 
@@ -195,10 +195,8 @@
  > sh start.sh 
  ``` 
  --------- 
- ### `✦ 𝐍𝐎𝐓𝐄 𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝 🔮` 
-  - 𝐈𝐋 𝐁𝐎𝐓 𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝 🔮 𝐄' 𝐂𝐎𝐌𝐏𝐀𝐓𝐈𝐁𝐈𝐋𝐄 𝐂𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐔𝐒𝐈𝐍𝐄𝐒𝐒 𝐄 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐍𝐎𝐑𝐌𝐀𝐋𝐄 
- - 𝐏𝐄𝐑 𝐁𝐋𝐎𝐂𝐂𝐀𝐑𝐄 𝐆𝐋𝐈 𝐔𝐓𝐄𝐍𝐓𝐈 𝐈𝐍 𝐏𝐑𝐈𝐕𝐀𝐓𝐎 𝐄𝐒𝐄𝐆𝐔𝐈 𝐈𝐋 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 .𝐚𝐭𝐭𝐢𝐯𝐚 𝐚𝐧𝐭𝐢𝐩𝐫𝐢𝐯𝐚𝐭𝐨 
- - 𝐒𝐄 𝐈 𝐌𝐄𝐒𝐒𝐀𝐆𝐆𝐈 𝐃𝐄𝐋 𝐁𝐎𝐓 𝐑𝐈𝐒𝐔𝐋𝐓𝐀𝐍𝐎 𝐈𝐍 "𝐀𝐓𝐓𝐄𝐒𝐀" 𝐄𝐒𝐄𝐆𝐔𝐈 𝐈𝐋 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 .𝐝𝐬 𝐄 𝐀𝐓𝐓𝐄𝐍𝐃𝐈 𝐐𝐔𝐀𝐋𝐂𝐇𝐄 𝐈𝐒𝐓𝐀𝐍𝐓𝐄 
+ ### `note chatunity bot'
+  ChatUnity mod riserva crediti
  --------- 
 ## `🌟 𝐂𝐑𝐄𝐃𝐈𝐓𝐈 𝐄 𝐁𝐀𝐒𝐄 𝐃𝐄𝐋 𝐁𝐎𝐓`  
  <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD"><img src="https://github.com/brunosobrino.png" width="100" height="100" alt="adiwajshing"/></a> 
@@ -210,4 +208,4 @@
 <a href="https://github.com/MoonContentCreator/BixbyBot-Md/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=MoonContentCreator/BixbyBot-Md" /> 
 </a># zefiro-bot
-# zefiro-bot
+# Chatunity
