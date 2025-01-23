@@ -56,6 +56,7 @@ global.APIKeys = {
 
 
 /**************************/
+import * as cheerio from 'cheerio'
 global.cheerio = cheerio
 global.fs = fs
 global.fetch = fetch

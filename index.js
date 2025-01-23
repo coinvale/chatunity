@@ -13,7 +13,7 @@ const { name, author } = require(join(__dirname, './package.json'))
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('\nBixby\nVision', {
+say('zefiro', {
 font: 'block',
 align: 'center',
 color: ['cyan', 'green']})
@@ -28,7 +28,7 @@ if (isRunning) return
 isRunning = true
 let args = [join(__dirname, file), ...process.argv.slice(2)]
 
-say('ediz dan e fab', {
+say('zefiro mod', {
 font: 'console',
 align: 'center',
 color: ['cyan', 'blue']})
@@ -50,7 +50,7 @@ p.send(process.uptime())
 break }})
 p.on('exit', (_, code) => {
 isRunning = false
-console.error('Errore inaspettato', code)
+console.error('Errore inaspettato contattare +8619858371809', code)
   
 p.process.kill()
 isRunning = false
